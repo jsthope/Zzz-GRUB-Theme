@@ -1,0 +1,21 @@
+title-text: ""
+desktop-image: "background.png"
+desktop-image-scale-method: "crop"
+desktop-color: "#000000"
+terminal-left: "0"
+terminal-top: "0"
+terminal-width: "100%"
+terminal-height: "100%"
+terminal-border: "0"
+
++ boot_menu {
+    left = 48%
+    top = 35%
+    width = 70%
+    height = 70%
+    item_font = "custom"
+    item_height = 76
+    item_spacing = 10
+    item_color = "#8a8a8a"
+    selected_item_color = "#ffffff"
+}
