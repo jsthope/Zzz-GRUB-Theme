@@ -6,6 +6,7 @@
 
 - Original background artwork: https://www.pixiv.net/en/artworks/96605330
 - Install and uninstall scripts are based on: https://github.com/aspy606/minimal-grub-theme
+- Fonts reference: https://fonts.google.com/share?selection.family=Dongle|Sour+Gummy:ital,wght@0,100..900;1,100..900
 
 ## Installation
 
